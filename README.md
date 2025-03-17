@@ -16,7 +16,7 @@ This project predicts airline revenue by analyzing historical sales data, applyi
 ## 🛠 How to Use  
 1️⃣ **Clone this repository** 
 bash
-git clone https://github.com/vaishnavi-bachhav15Aug/airline-revenue.git
+git clone https://github.com/VaishnaviBachhav15Aug/airline-revenue.git
 
 
 
